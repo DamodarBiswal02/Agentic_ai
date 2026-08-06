@@ -12,6 +12,13 @@ The Model Context Protocol flips this. Instead of hardcoding integrations, MCP a
 - **The Process:** An MCP Server is running (e.g., a GitHub MCP Server). The agent connects to it and asks: *"What can you do?"* The server replies with a list of tools (e.g., `list_commits`, `read_issue`), their exact parameters, and descriptions written specifically for LLMs to understand.
 - **The Advantage:** The agent *dynamically* learns how to use the tool at runtime. No glue code is required. 
 
+## Exploring MCP Servers
+The MCP ecosystem is growing rapidly. You can explore, discover, and submit custom MCP servers at community registries such as:
+- [mcpservers.org](https://mcpservers.org/)
+- [mcpmarket.com](https://mcpmarket.com/)
+
+By browsing these registries, you can see how the community is wrapping traditional APIs (like GitHub, Slack, and Weather) into LLM-ready MCP format.
+
 ## Key Drawback of APIs over MCPs
 The biggest drawback of APIs is the **N x M Integration Problem**.
 If you have 4 AI platforms (Cursor, OpenCode, Multica, Claude Desktop) and 10 APIs, you must write **40 different integrations**.
