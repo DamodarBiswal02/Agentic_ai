@@ -84,6 +84,7 @@ This repository contains my submissions for the Agentic AI Training class up to 
 ### [5 August](./05_August)
 | Task | File | Description |
 |---|---|---|
+| Multica Docker Install | [`0_multica_docker_installation.md`](./05_August/0_multica_docker_installation.md) | Compulsory Docker installation of Multica. |
 | Team Workspace | [`1_team_workspace_setup.md`](./05_August/1_team_workspace_setup.md) | Securing resources and quotas. |
 | Slack Integration | [`2_multica_slack_integration.md`](./05_August/2_multica_slack_integration.md) | Exposing agents to Slack endpoints. |
 | OpenCode | [`3_opencode_experiment.md`](./05_August/3_opencode_experiment.md) | Deep IDE context tests. |
@@ -94,7 +95,8 @@ This repository contains my submissions for the Agentic AI Training class up to 
 | Task | File | Description |
 |---|---|---|
 | API vs MCP | [`1_api_vs_mcp.md`](./06_August/1_api_vs_mcp.md) | Why APIs fall short for AI automation. |
-| Weather Script | [`2_bhubaneswar_weather.py`](./06_August/2_bhubaneswar_weather.py) | Brittle pre-MCP weather extraction. |
+| Weather Script | [`2_bhubaneswar_weather.py`](./06_August/2_bhubaneswar_weather.py) | Brittle pre-MCP weather extraction code. |
+| Weather Notes | [`3_bhubaneswar_weather_notes.md`](./06_August/3_bhubaneswar_weather_notes.md) | Analysis of the Bhubaneswar REST API. |
 
 ### [10 August](./10_August)
 | Task | File | Description |
