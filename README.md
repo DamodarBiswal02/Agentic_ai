@@ -1,7 +1,8 @@
 13 Aug (Task)
 
 1. What is the difference between STDIO and Streamable HTTP
-2.  Research about MCP
+2. Research about MCP
+3. Create a Squad including the other agents so that the Orchestrator Agent can coordinate their tasks
 
 ---
 
