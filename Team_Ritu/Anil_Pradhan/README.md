@@ -8,14 +8,14 @@ Welcome to my personal progress tracker and repository for the **Agentic AI Cour
 
 | Category | Total Tasks | Completed | Status |
 | :--- | :---: | :---: | :---: |
-| 📄 **GitHub Research Papers** | 7 | 7 | 🟢 **100% Completed** |
+| 📄 **GitHub Research Papers** | 8 | 8 | 🟢 **100% Completed** |
 | 🛠️ **Practical / Hands-On Tasks** | 8 | 2 | 🟡 **25% (AnythingLLM & Multica Core Completed)** |
 
 ---
 
 ## 📄 1. GitHub Research Papers (`Tasks_Github/`)
 
-All 7 research papers have been thoroughly researched, written, and saved under the [`Tasks_Github/`](file:///c:/Users/ANIL/Desktop/Agentic_ai/Team_Ritu/Anil_Pradhan/Tasks_Github/) directory:
+All 8 research papers have been thoroughly researched, written, and saved under the [`Tasks_Github/`](file:///c:/Users/ANIL/Desktop/Agentic_ai/Team_Ritu/Anil_Pradhan/Tasks_Github/) directory:
 
 1. ✅ **[Task 1: Chatbot vs. AI Agent](file:///c:/Users/ANIL/Desktop/Agentic_ai/Team_Ritu/Anil_Pradhan/Tasks_Github/1-chatbot_Vs_Aiagents.md)**
    - *Topics:* Evolution, architectural differences, reactive vs. proactive execution, decision loops, and real-world use cases.
@@ -31,6 +31,8 @@ All 7 research papers have been thoroughly researched, written, and saved under 
    - *Topics:* PyTorch (`.pt` pickle security), SafeTensors, ONNX, and GGUF v3. Explains K-quants vs. I-quants (`IQ3_M`), Importance Matrix (`imatrix`), and hybrid CPU+GPU layer offloading.
 7. ✅ **[Task 7: API vs. MCP (Model Context Protocol) & Drawbacks](file:///c:/Users/ANIL/Desktop/Agentic_ai/Team_Ritu/Anil_Pradhan/Tasks_Github/7-api_vs_mcp_and_drawbacks.md)**
    - *Topics:* Architectural comparison between traditional REST APIs and MCP (JSON-RPC 2.0 Host-Client-Server), and detailed drawbacks of APIs in AI (N+1 glue code explosion, context window bloat, static vs dynamic discovery, lack of HITL safety guardrails).
+8. ✅ **[Task 8: Comparative Analysis of MCP Transports: STDIO vs. Streamable HTTP](file:///c:/Users/ANIL/Desktop/Agentic_ai/Team_Ritu/Anil_Pradhan/Tasks_Github/8-stdio_vs_streamable_http_mcp_transports.md)**
+   - *Topics:* Deep architectural analysis of STDIO (local IPC, stdout framing fragility, memory scaling) vs. Streamable HTTP (stateless core, header-based routing, OAuth 2.1), performance benchmarks (latency, cold-start, concurrency), and enterprise hybrid topologies.
 
 ---
 
@@ -125,7 +127,8 @@ Team_Ritu/Anil_Pradhan/
     ├── 4-model_training_and_tuning_tools.md   # Task 4 Paper
     ├── 5-llm_vs_slm.md                        # Task 5 Paper
     ├── 6-model_formats_and_gguf.md            # Task 6 Paper
-    └── 7-api_vs_mcp_and_drawbacks.md          # Task 7 Paper
+    ├── 7-api_vs_mcp_and_drawbacks.md          # Task 7 Paper
+    └── 8-stdio_vs_streamable_http_mcp_transports.md # Task 8 Paper
 ```
 
 ---
