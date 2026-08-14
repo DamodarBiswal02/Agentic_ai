@@ -9,7 +9,7 @@ Welcome to my personal progress tracker and repository for the **Agentic AI Cour
 | Category | Total Tasks | Completed | Status |
 | :--- | :---: | :---: | :---: |
 | 📄 **GitHub Research Papers** | 7 | 7 | 🟢 **100% Completed** |
-| 🛠️ **Practical / Hands-On Tasks** | 6 | 1 | 🟡 **16% (AnythingLLM Completed)** |
+| 🛠️ **Practical / Hands-On Tasks** | 7 | 2 | 🟡 **29% (AnythingLLM & Multica Completed)** |
 
 ---
 
@@ -85,6 +85,17 @@ Below is the roadmap and real-time completion status for all hands-on environmen
 - [ ] Setup Virtual Machine / Sandbox container
 - [ ] Migrate Agentic AI experimental scripts into VM environment for safety
 > **Status:** ⏳ **Pending**
+
+---
+
+### Task 7: Multica & Advanced MCP Integration
+- [x] Compulsory installation of Multica (through Docker)
+- [x] Create workspace for team *(implemented by team leaders)*
+- [x] Connect Multica workspace with Slack
+- [x] Experiment with OpenCode (best for runtime execution)
+- [x] Experiment with Microsoft Recorder skills
+- [x] *(Advanced Task)* Connect AnythingLLM's RAG database to Multica/OpenClaw by exposing it as an MCP server (enables Multica agents to retrieve and use documents stored in AnythingLLM during execution)
+> **Status:** ✅ **Completed**
 
 ---
 
