@@ -9,7 +9,7 @@ Welcome to my personal progress tracker and repository for the **Agentic AI Cour
 | Category | Total Tasks | Completed | Status |
 | :--- | :---: | :---: | :---: |
 | 📄 **GitHub Research Papers** | 7 | 7 | 🟢 **100% Completed** |
-| 🛠️ **Practical / Hands-On Tasks** | 7 | 2 | 🟡 **29% (AnythingLLM & Multica Completed)** |
+| 🛠️ **Practical / Hands-On Tasks** | 8 | 2 | 🟡 **25% (AnythingLLM & Multica Core Completed)** |
 
 ---
 
@@ -96,6 +96,20 @@ Below is the roadmap and real-time completion status for all hands-on environmen
 - [x] Experiment with Microsoft Recorder skills
 - [x] *(Advanced Task)* Connect AnythingLLM's RAG database to Multica/OpenClaw by exposing it as an MCP server (enables Multica agents to retrieve and use documents stored in AnythingLLM during execution)
 > **Status:** ✅ **Completed**
+
+---
+
+### Task 8: Multica Agent Deployment Exercises
+- [ ] **Exercise #1: Explainer_Agent**
+  - [ ] Objective: Multica agent answering questions about people, places, topics, and events using live Wikipedia lookups (`@cyanheads/wikipedia-mcp-server`)
+  - [ ] Skill definition & task assignment to `Explainer_Agent`: Summarize Mahatma Gandhi, list existing Wikipedia sections, and share "Legacy" section content
+- [ ] **Exercise #2: Custom Agent Deployment in Multica Instance**
+  - [ ] `Currency_Converter_Agent`: Convert 500 USD to INR & show today's rate for EUR to INR
+  - [ ] `World_Clock_Agent`: Time right now in Tokyo, London, and New York
+  - [ ] `Definition_Agent`: Define 'ubiquitous' and provide an example sentence
+  - [ ] `HackerNews_Digest_Agent`: Retrieve top 5 Hacker News stories with scores
+  - [ ] `GitHub_Repo_Agent`: Open issues count and 3 most recently updated issues for `anthropics/claude-code`
+> **Status:** ⏳ **In Progress / Pending**
 
 ---
 
