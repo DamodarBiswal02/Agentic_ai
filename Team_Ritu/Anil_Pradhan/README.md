@@ -111,6 +111,7 @@ Below is the roadmap and real-time completion status for all hands-on environmen
   - [ ] `Definition_Agent`: Define 'ubiquitous' and provide an example sentence
   - [ ] `HackerNews_Digest_Agent`: Retrieve top 5 Hacker News stories with scores
   - [ ] `GitHub_Repo_Agent`: Open issues count and 3 most recently updated issues for `anthropics/claude-code`
+  - [ ] `Create a Squad including the other agents so that the Orchestrator Agent can coordinate their tasks
 > **Status:** ⏳ **In Progress / Pending**
 
 ---
